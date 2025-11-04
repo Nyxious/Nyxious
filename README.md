@@ -1,4 +1,4 @@
-## wsg
+
 <img alt="Statistics" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=Nyxious&show_icons=true&theme=shadow_red"/>
 
 <img alt="Languages" align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyxious&layout=compact&theme=shadow_red"/>
